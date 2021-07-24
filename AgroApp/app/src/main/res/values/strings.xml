@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Agro Buddy</string>
+    <string name="user">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="new_user_register_now">New User? Register Here</string>
+    <string name="existing_user_login_here">Existing User? Login Here</string>
+    <string-array name="buyer_type">
+        <item>COMMERCIAL</item>
+        <item>NON-COMMERCIAL</item>
+    </string-array>
+    <string-array name="crop_type">
+        <item>FOOD GRAINS/CEREALS</item>
+        <item>OIL SEEDS</item>
+        <item>FRUITS</item>
+        <item>VEGETABLES</item>
+        <item>SPICES</item>
+        <item>MISC</item>
+    </string-array>
+    <string-array name="ctype1">
+        <item>Barley</item>
+        <item>Basmati rice</item>
+        <item>Chana Dal</item>
+        <item>Jowar</item>
+        <item>Maize</item>
+        <item>Moong Dal</item>
+        <item>Paddy</item>
+        <item>Ragi</item>
+        <item>Urad Dal</item>
+        <item>Wheat</item>
+    </string-array>
+    <string-array name="ctype2">
+        <item>Castor seed</item>
+        <item>Mustard seed</item>
+        <item>Peanut</item>
+        <item>Sesame seed</item>
+        <item>Soyabean</item>
+        <item>Sunflower seed</item>
+    </string-array>
+    <string-array name="ctype3">
+        <item>Amla</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Custard apple</item>
+        <item>Grapes</item>
+        <item>Guava</item>
+        <item>Jackfruit</item>
+        <item>Jamun</item>
+        <item>Lemon</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Papaya</item>
+        <item>Pineapple</item>
+        <item>Pomegranate</item>
+        <item>Sapota</item>
+        <item>Watermelon</item>
+    </string-array>
+    <string-array name="ctype4">
+        <item>Beetroot</item>
+        <item>Bhindi/Okra</item>
+        <item>Bitter gourd</item>
+        <item>Brinjal</item>
+        <item>Broccoli</item>
+        <item>Cabbage</item>
+        <item>Capsicum</item>
+        <item>Carrots</item>
+        <item>Cauliflower</item>
+        <item>Cluster beans</item>
+        <item>Cucumber</item>
+        <item>Garlic</item>
+        <item>Ginger</item>
+        <item>Green chillies</item>
+        <item>Mint Leaves</item>
+        <item>Onion</item>
+        <item>Pea</item>
+        <item>Potato</item>
+        <item>Pumpkin</item>
+        <item>Raddish</item>
+        <item>Spinach</item>
+        <item>Sweet potato</item>
+        <item>Tomato</item>
+    </string-array>
+    <string-array name="ctype5">
+        <item>Black Pepper</item>
+        <item>Cardamoms</item>
+        <item>Cloves</item>
+        <item>Coriander</item>
+        <item>Cumin</item>
+        <item>Red chilli</item>
+        <item>Turmeric</item>
+    </string-array>
+    <string-array name="ctype6">
+        <item>Areca nut</item>
+        <item>Bamboo</item>
+        <item>Betel leaves</item>
+        <item>Cashew nut</item>
+        <item>Coconut</item>
+        <item>Cotton seed</item>
+        <item>Groundnut</item>
+        <item>Jaggery</item>
+        <item>Jasmine</item>
+        <item>Jute Seeds</item>
+        <item>Lily</item>
+        <item>Marigold</item>
+        <item>Tamarind</item>
+        <item>Walnuts</item>
+    </string-array>
+    <string-array name="unit">
+        <item>quintal</item>
+        <item>kg</item>
+        <item>gram</item>
+        <item>litre</item>
+        <item>piece</item>
+    </string-array>
+</resources>
